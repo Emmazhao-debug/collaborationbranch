@@ -138,5 +138,15 @@
   {
     "ModuleName": "Upload",
     "ModuleType": 26
+  },
+  {
+    "ModuleName": "PCPage/branchpagename",
+    "State": 3,
+    "LockedBy": {
+      "UserName": "GRAPECITY\\Emmazhao",
+      "Email": "example@example.com"
+    },
+    "LockDateTime": "2021-09-03T12:06:25.0561597+08:00",
+    "ModuleType": 1
   }
 ]
